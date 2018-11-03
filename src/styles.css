@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#task-form,
+#tasks {
+  box-shadow: 1px 4px 8px 3px #00000066;
+  padding: 4%;
+  margin: 4% 2%;
+}
+
+.task {
+  text-align: left;
+  background: #888888;
+  padding: 2% 4%;
+  font-weight: bold;
+  color: white;
+  margin: 4% 0;
+}
