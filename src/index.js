@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
 import todoStore from "./store";
 import Todo from "./components/Todo";
-
 import "./styles.css";
 
 function App() {
